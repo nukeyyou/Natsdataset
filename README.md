@@ -8,3 +8,10 @@
 
 ### utils.py存储计算需要的函数  
 
+### hfai_run在hf平台上的执行
+
+### resnet模型resnet
+
+### temperature温度调整函数，默认训练50epochs
+
+### load_uqique_arch加载异构代码（同构模型只存在empirical error）
