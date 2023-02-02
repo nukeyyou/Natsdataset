@@ -1,8 +1,10 @@
 # Natsdataset  
 
-### figure文件夹里面是画图的代码  
+### figure文件夹里面是画图的代码   
 
-### summary文件夹包括在nats-bench上测出来的各项ece以及backbone的准确率等数值
+### Figure_data文件夹里面是三个数据集的ece全部信息
+
+### summary忽略
 
 ### hfai_train.py训练代码文件  
 
